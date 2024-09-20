@@ -1,0 +1,19 @@
+* {
+    background-color: gainsboro;
+    font-family: Monaco, Verdana, sans-serif;
+}
+
+h1 {
+    color: ghostwhite;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+li a{
+    color:darkslategray;
+    list-style: none;
+    font-weight: bold;
+    text-underline-offset: 4px;
+    font-size: 25px;
+
+}
