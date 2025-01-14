@@ -1,3 +1,3 @@
-# Odin-Recipes project from TheOdinProject Foundations course
+# Recipe page project from The Odin Project Foundations course
 
-This is the first project in The Odin Project Foundations course. It covers links+images, lists, and boilerplate.
+I wrote the html, css, and page content from scratch following some requirements from the course.
